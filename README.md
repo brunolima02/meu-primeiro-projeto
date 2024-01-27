@@ -13,3 +13,8 @@
  um exemplo bem basico
 # python
  instalamos e fizemos o setup inicial do python e rodamos um script basico
+
+
+ # exercicios
+ - fazer uma calculadora com html e js
+ - todolist com html e js
